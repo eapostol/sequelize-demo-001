@@ -18,5 +18,17 @@ The **MySQL2 project** is a continuation of [MySQL-Native](https://github.com/si
 
 **Sequelize** is a promise-based ORM for Node.js v4 and up. It supports the dialects PostgreSQL, MySQL, SQLite and MSSQL and features solid transaction support, relations, read replication and more.
 
+## Branches:
+### 001-setting-up-sequelize-project
+* this branch has tasks that setup the sequelize project
+
+`​sequelize init:config & sequelize init:models`
+
+The results should be seen in the images shown below
+
+(insert execution of command image)
+
+(insert new files and folders added image)
+
 
 
