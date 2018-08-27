@@ -1,0 +1,28 @@
+{
+  "name": "sequelize-demo-001",
+  "version": "1.0.0",
+  "description": "A simple demo for Node, Express, mySQL2, Sequelize and Body-Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eapostol/sequelize-demo-001.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "mySQL",
+    "Sequelize",
+    "Body-Parser",
+    "Demo",
+    "Example"
+  ],
+  "author": "Edward J. Apostol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eapostol/sequelize-demo-001/issues"
+  },
+  "homepage": "https://github.com/eapostol/sequelize-demo-001#readme"
+}
